@@ -1785,3 +1785,4 @@ function esp:Destroy()
 end
 getgenv().UESP = esp
 return esp
+return()
